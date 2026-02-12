@@ -11,6 +11,6 @@ Clawb builds **agent identity + request signing + policy enforcement** so you ca
 
 ## What’s here
 
-- **clawb** — main monorepo (site + app + backend)
-- **docs** — documentation (Mintlify)
-- **python-sdk** — Python SDK for Clawb
+- **[clawb](https://github.com/clawbai/clawb)** — main monorepo (site + app + backend)
+- **[docs](https://github.com/clawbai/docs)** — documentation (Mintlify)
+- **[python-sdk](https://github.com/clawbai/python-sdk)** — Python SDK for Clawb
